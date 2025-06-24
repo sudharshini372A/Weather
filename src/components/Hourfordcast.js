@@ -1,5 +1,4 @@
 import React, { useRef } from "react";
-import cloud from "../images/cloud.jpg";
 import "../components/Hourfordcast.css";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 const Hourfordcast = ({ hourlydata }) => {

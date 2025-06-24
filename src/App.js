@@ -1,6 +1,5 @@
 import { FaSearch } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
-import cloud from "./images/cloud.jpg";
 import Hourfordcast from "./components/Hourfordcast";
 import axios from "axios";
 import { useState } from "react";
